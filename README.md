@@ -1,0 +1,2 @@
+# sm
+software installer manager
